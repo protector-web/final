@@ -1,6 +1,6 @@
 body {
   font-size: 16px;
-  color: #fff;
+  color:  #2E4C6D;
   background-color: #EEEBDD;
   font-family: 'Oxygen', sans-serif;
 }
@@ -320,8 +320,10 @@ h3.menu-item-title {
   #xs-deliver {
     margin-top: 5px;
     font-size: .7em;
+    text-decoration-color: red;
     letter-spacing: .1em;
     text-transform: uppercase;
+
   }
   /* End Header */
 
